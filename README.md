@@ -1,16 +1,13 @@
-## Hi there 👋
+<h1 align='center'>  Hi there 👋 </h1>
+<br>
+<h3 align='center'> I'm a student with a background in IP Networking</h3>
+<br>
 
-<!--
-**FlambeStinger/FlambeStinger** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
+- 🔭 I’m currently working on: **CompTIA Security+ Cert**
+  
+- 🌱 I’m currently learning: **AD DS, Containerization, 802.11 Deployment**
+  
 - 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<br>
+<h3>Experienced In:</h3>
+<p>Cisco IOS, Brocade, OPENWRT, OPNsense, pfSense, Proxmox</p>
