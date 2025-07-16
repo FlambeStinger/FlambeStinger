@@ -10,4 +10,4 @@
 - 📫 How to reach me: ...
 <br>
 <h3>Experienced In:</h3>
-<p>Cisco IOS, Brocade, OPENWRT, OPNsense, pfSense, Proxmox</p>
+<p>Cisco IOS, Brocade, OPENWRT, OPNsense, pfSense, Wireshark, Proxmox</p>
