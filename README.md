@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on: **CompTIA Security+ Cert**
   
-- 🌱 I’m currently learning: **AD DS, Containerization, 802.11 Deployment, and Sec+**
+- 🌱 I’m currently learning: **AD DS, Containerization, C, and Sec+**
   
 - 📫 How to reach me: ...
 <br>
