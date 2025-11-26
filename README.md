@@ -1,6 +1,6 @@
 <h1 align='center'>  Hi there 👋 </h1>
 <br>
-<h3 align='center'> I'm a student with a background in IP Networking</h3>
+<h3 align='center'> I'm an aspiring IT Professional with a background in IP Networking</h3>
 <br>
 
 - 🔭 I’m currently working on: **Automation**
